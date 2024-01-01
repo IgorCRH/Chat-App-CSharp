@@ -1,0 +1,7 @@
+C:\Users\lar\source\repos\Chat\ChatServidor\bin\Debug\ChatServidor.exe.config
+C:\Users\lar\source\repos\Chat\ChatServidor\bin\Debug\ChatServidor.exe
+C:\Users\lar\source\repos\Chat\ChatServidor\bin\Debug\ChatServidor.pdb
+C:\Users\lar\source\repos\Chat\ChatServidor\obj\Debug\ChatServidor.csproj.AssemblyReference.cache
+C:\Users\lar\source\repos\Chat\ChatServidor\obj\Debug\ChatServidor.csproj.CoreCompileInputs.cache
+C:\Users\lar\source\repos\Chat\ChatServidor\obj\Debug\ChatServidor.exe
+C:\Users\lar\source\repos\Chat\ChatServidor\obj\Debug\ChatServidor.pdb
